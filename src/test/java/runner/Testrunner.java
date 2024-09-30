@@ -12,9 +12,9 @@ import io.cucumber.junit.CucumberOptions;
 		dryRun = false,
 		monochrome = true,
 		publish = true,
-		tags = "@dataDriven"
-
+		tags = "@test"
 		)
+
 public class Testrunner {
 
 }

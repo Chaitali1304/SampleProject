@@ -17,7 +17,6 @@ public class ReadConfig {
 		
 	}
 	
-	
 	public String getProperty() {
 		
 		String value=properties.getProperty("browser");
